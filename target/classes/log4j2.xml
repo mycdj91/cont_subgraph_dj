@@ -1,0 +1,4 @@
+<configuration>
+   <logger name="org.apache.storm" level="OFF"/>
+ <logger name="org.apache.zookeeper" level="OFF"/>
+</configuration>
